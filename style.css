@@ -202,20 +202,20 @@ h1 span {
 }
 
 .item-title-name {
-    color: #8a2be2;
+    color: #000;
     font-size: 16px;
     font-weight: bold;
 }
 
 .item-title-date {
-  color: #8a2be2;
+  color: #000;
   font-size: 14px;
   margin-top: 10px;
   margin-bottom: 20px;
 }
 
 .item-title a {
-    color: #8a2be2;
+    color: #000;
     font-size: 24px;
     font-weight: bold;
 }
